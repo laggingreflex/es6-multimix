@@ -1,0 +1,11 @@
+{
+  "name": "es6-multimix",
+  "version": "0.0.0",
+  "description": "Mix classes and methods for an ES6 class to extend from",
+  "main": "index.js",
+  "repository": "laggingreflex/es6-multimix",
+  "dependencies": {
+    "es6-class-mixin": "^1.0.5",
+    "es6-classes-mixin": "^0.0.1"
+  }
+}
